@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "title": "Designhive — Digital Design & Development Studio",
+    "description": "Designhive is a boutique digital studio crafting branding, product design, and web experiences for ambitious teams."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "work": "Work",
+    "contact": "Contact",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "getQuote": "Get Quote"
+  },
+  "serviceLinks": [
+    "UX/UI Design",
+    "Web Development",
+    "Branding & Identity",
+    "Growth Marketing"
+  ],
+  "footer": {
+    "tagline": "A boutique digital studio crafting branding, product design, and web experiences for ambitious teams.",
+    "studio": "Studio",
+    "resources": "Resources",
+    "contact": "Contact",
+    "studioLinks": ["About", "Services", "Work", "Careers"],
+    "resourceLinks": ["Pricing", "Blog", "Case Studies", "FAQ"],
+    "rights": "Studio. All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "quotePage": {
+    "back": "Back to Designhive",
+    "tagline": "Digital Agency"
+  },
+  "language": {
+    "switchTo": "বাংলা"
+  }
+}
